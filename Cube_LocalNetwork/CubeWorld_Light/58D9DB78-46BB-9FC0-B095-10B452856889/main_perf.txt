@@ -1,14 +1,13 @@
 |                                              Func	     Calls	       Total	         Max	         Avr|
-|               cubesvr::IInnerGameworld::GetBlocks	   1155760	   33.609400	    0.046476	    0.000029|
-|                            CubeGameWorld::Execute	    356247	  147.579146	    0.072399	    0.000414|
-|                              ProcessAccessMessage	    356281	    0.167054	    0.000277	    0.000000|
-|                               GameMachine_Execute	    356281	  145.370177	    0.060447	    0.000408|
-|         cubesvr::CCubeworldStateMachaine::Execute	    356281	  145.070504	    0.060446	    0.000407|
-|cubesvr::CCubeworldStateMachaine::SaveHelper::CheckSave	    356281	    0.174837	    0.006251	    0.000000|
-|                                   CheckSave Logic	        33	    0.127853	    0.006251	    0.003874|
-|             CubeGameWorld::UpdateListenPlayerPosi	    356247	    7.441102	    0.046479	    0.000021|
-|                                    DTW_LOAD_GROUP	      1589	    0.006069	    0.000086	    0.000004|
-|                                   ATW_APPLY_CHUNK	      7736	    0.376181	    0.015590	    0.000049|
-|                                ATW_GENERATE_GROUP	        23	    0.000160	    0.000016	    0.000007|
-|                ATW_COMPRESS_MODIFICATION_RESPONSE	        89	    0.001605	    0.000074	    0.000018|
-|                   cubesvr::IInnerGameworld::Trace	      1017	    0.003182	    0.000297	    0.000003|
+|               cubesvr::IInnerGameworld::GetBlocks	    498145	    6.256874	    0.000598	    0.000013|
+|                            CubeGameWorld::Execute	    157537	   56.218088	    0.050133	    0.000357|
+|                              ProcessAccessMessage	    157740	    0.067614	    0.000269	    0.000000|
+|                               GameMachine_Execute	    157740	   55.380809	    0.041308	    0.000351|
+|         cubesvr::CCubeworldStateMachaine::Execute	    157740	   55.262177	    0.041307	    0.000350|
+|cubesvr::CCubeworldStateMachaine::SaveHelper::CheckSave	    157740	    0.047446	    0.003041	    0.000000|
+|                                   CheckSave Logic	        11	    0.025394	    0.003040	    0.002309|
+|             CubeGameWorld::UpdateListenPlayerPosi	    157537	    6.918164	    0.057388	    0.000044|
+|                                    DTW_LOAD_GROUP	      1127	    0.003785	    0.000134	    0.000003|
+|                                   ATW_APPLY_CHUNK	      4129	    0.140998	    0.003390	    0.000034|
+|                ATW_COMPRESS_MODIFICATION_RESPONSE	        22	    0.000373	    0.000037	    0.000017|
+|                   cubesvr::IInnerGameworld::Trace	         6	    0.043300	    0.043291	    0.007217|

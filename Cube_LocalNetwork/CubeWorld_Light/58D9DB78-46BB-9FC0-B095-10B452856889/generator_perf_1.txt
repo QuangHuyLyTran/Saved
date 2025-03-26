@@ -1,20 +1,5 @@
 |                                              Func	     Calls	       Total	         Max	         Avr|
-|                cubesvr::CFinishGenerator::Process	      1940	    0.615558	    0.026165	    0.000317|
-|                                            Ores_6	      1937	    0.611099	    0.026165	    0.000315|
-|           cubesvr::CFinishGenerator::ResetProcess	      1937	    0.192244	    0.011172	    0.000099|
-|                                       TallGrass_5	      1940	    0.191269	    0.011172	    0.000099|
-|           cubesvr::CGenerator::DoGenerateToBinary	         3	    0.012114	    0.005467	    0.004038|
-|                  cubesvr::CGenerator::CreateShape	         3	    0.007760	    0.004536	    0.002587|
-|        cubesvr::CComposeGenerator::ComposeTerrain	         3	    0.000539	    0.000236	    0.000180|
-|                                       HugeCurve_9	         3	    0.002074	    0.001996	    0.000691|
-|                                      FluidLakes_0	         3	    0.000104	    0.000039	    0.000035|
-|                                      FluidLakes_1	         3	    0.000103	    0.000038	    0.000034|
-|                                            Snow_2	         3	    0.000132	    0.000049	    0.000044|
-|                                      BottomLava_7	         3	    0.000006	    0.000002	    0.000002|
-|                                           Relic_8	         3	    0.000002	    0.000001	    0.000001|
-|                                   WaterFalldawn_0	         3	    0.000190	    0.000068	    0.000063|
-|                                             Ice_3	         3	    0.000136	    0.000055	    0.000045|
-|                                         Animals_4	         3	    0.000268	    0.000096	    0.000089|
-|           cubesvr::CGenerator::WriteChunkToBinary	         3	    0.000294	    0.000113	    0.000098|
-|                               compress_chunk_data	         3	    0.000038	    0.000018	    0.000013|
-|                     HugeCurveProcess SpecialCurve	         1	    0.000046	    0.000046	    0.000046|
+|                cubesvr::CFinishGenerator::Process	      1036	    0.178882	    0.000655	    0.000173|
+|                                            Ores_6	      1036	    0.178430	    0.000654	    0.000172|
+|           cubesvr::CFinishGenerator::ResetProcess	      1036	    0.065431	    0.000213	    0.000063|
+|                                       TallGrass_5	      1036	    0.064996	    0.000212	    0.000063|
