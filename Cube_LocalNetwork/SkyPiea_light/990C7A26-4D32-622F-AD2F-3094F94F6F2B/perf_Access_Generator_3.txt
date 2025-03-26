@@ -1,0 +1,6 @@
+|                                              Func	     Calls	       Total	         Max	         Avr|
+|                     cubesvr::ChunkAccess::Execute	    201094	  361.947154	    0.788832	    0.001800|
+|              cubesvr::ChunkAccess::ProcessMessage	       465	    1.982703	    0.050716	    0.004264|
+|         cubesvr::ChunkAccess::GenerateSingleGroup	       236	    1.730438	    0.050715	    0.007332|
+|    cubesvr::ChunkAccess::ApplyChunkCommpressdData	       214	    0.249327	    0.032232	    0.001165|
+|       cubesvr::ChunkAccess::CompressChunkModifies	        14	    0.001297	    0.000148	    0.000093|

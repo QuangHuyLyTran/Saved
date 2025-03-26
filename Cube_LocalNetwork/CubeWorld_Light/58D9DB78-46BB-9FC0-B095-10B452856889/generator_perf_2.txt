@@ -1,0 +1,20 @@
+|                                              Func	     Calls	       Total	         Max	         Avr|
+|                cubesvr::CFinishGenerator::Process	      1938	    0.578223	    0.017959	    0.000298|
+|                                            Ores_6	      1930	    0.565770	    0.017958	    0.000293|
+|           cubesvr::CFinishGenerator::ResetProcess	      1930	    0.182992	    0.004734	    0.000095|
+|                                       TallGrass_5	      1938	    0.182748	    0.004734	    0.000094|
+|           cubesvr::CGenerator::DoGenerateToBinary	         8	    0.027925	    0.004827	    0.003491|
+|                  cubesvr::CGenerator::CreateShape	         8	    0.013089	    0.002247	    0.001636|
+|        cubesvr::CComposeGenerator::ComposeTerrain	         8	    0.001359	    0.000232	    0.000170|
+|                                       HugeCurve_9	         8	    0.007431	    0.002749	    0.000929|
+|                                      FluidLakes_0	         8	    0.000286	    0.000045	    0.000036|
+|                                      FluidLakes_1	         8	    0.000295	    0.000048	    0.000037|
+|                                            Snow_2	         8	    0.000491	    0.000208	    0.000061|
+|                                      BottomLava_7	         8	    0.000093	    0.000080	    0.000012|
+|                                           Relic_8	         8	    0.000012	    0.000005	    0.000001|
+|                                   WaterFalldawn_0	         8	    0.000600	    0.000176	    0.000075|
+|                                             Ice_3	         8	    0.000330	    0.000045	    0.000041|
+|                                         Animals_4	         8	    0.000661	    0.000166	    0.000083|
+|           cubesvr::CGenerator::WriteChunkToBinary	         8	    0.001524	    0.000635	    0.000191|
+|                               compress_chunk_data	         8	    0.000145	    0.000029	    0.000018|
+|                     HugeCurveProcess SpecialCurve	         3	    0.000164	    0.000075	    0.000055|

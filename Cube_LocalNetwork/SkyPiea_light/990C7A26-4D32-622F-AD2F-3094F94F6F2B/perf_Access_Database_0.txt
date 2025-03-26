@@ -1,0 +1,7 @@
+|                                              Func	     Calls	       Total	         Max	         Avr|
+|                     cubesvr::ChunkAccess::Execute	    200812	  361.941074	    1.060059	    0.001802|
+|              cubesvr::ChunkAccess::ProcessMessage	       909	    1.269305	    1.052359	    0.001396|
+|           cubesvr::ChunkAccess::DB_LoadWorldBiome	         1	    0.000159	    0.000159	    0.000159|
+|         cubesvr::ChunkAccess::DB_LoadAllChunkData	         4	    0.005699	    0.005264	    0.001425|
+|         cubesvr::ChunkAccess::DB_RequestLoadChunk	       901	    0.092026	    0.005071	    0.000102|
+|                cubesvr::ChunkAccess::DB_SaveGroup	         2	    0.116310	    0.089539	    0.058155|

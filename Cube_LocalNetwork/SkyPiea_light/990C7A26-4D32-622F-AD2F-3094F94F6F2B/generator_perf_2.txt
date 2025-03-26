@@ -1,0 +1,22 @@
+|                                              Func	     Calls	       Total	         Max	         Avr|
+|           cubesvr::CGenerator::DoGenerateToBinary	       213	    1.527445	    0.040791	    0.007171|
+|                  cubesvr::CGenerator::CreateShape	       213	    0.578650	    0.033374	    0.002717|
+|cubesvr::CComposeGenerator_FloatingIslands::ComposeTerrain	       213	    0.074749	    0.036060	    0.000351|
+|                cubesvr::CFinishGenerator::Process	       451	    1.067710	    0.040884	    0.002367|
+|                                    SurfaceWater_0	      2130	    0.219119	    0.035607	    0.000103|
+|                                       HugeCurve_5	       213	    0.234109	    0.034733	    0.001099|
+|                                       TallGrass_0	       451	    0.119804	    0.023131	    0.000266|
+|                                   ClimbingVines_1	       213	    0.088460	    0.028654	    0.000415|
+|                                      FluidLakes_3	       213	    0.017560	    0.001251	    0.000082|
+|                                      FluidLakes_4	       213	    0.046024	    0.027441	    0.000216|
+|                                         Bourock_7	       213	    0.000155	    0.000003	    0.000001|
+|                                           Relic_8	       213	    0.000127	    0.000003	    0.000001|
+|                                           Snow_10	       213	    0.045917	    0.024045	    0.000216|
+|                                   WaterFalldawn_0	       213	    0.047246	    0.034136	    0.000222|
+|                                         Animals_2	       213	    0.045548	    0.020665	    0.000214|
+|                                    VanityAnimal_6	       213	    0.063587	    0.031486	    0.000299|
+|           cubesvr::CGenerator::WriteChunkToBinary	       213	    0.017740	    0.000462	    0.000083|
+|                               compress_chunk_data	       213	    0.002231	    0.000065	    0.000010|
+|                     HugeCurveProcess SpecialCurve	        72	    0.001532	    0.000073	    0.000021|
+|                                            Ores_9	       238	    0.217267	    0.040884	    0.000913|
+|           cubesvr::CFinishGenerator::ResetProcess	       238	    0.078720	    0.023131	    0.000331|

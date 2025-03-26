@@ -1,0 +1,41 @@
+﻿Log file open, 03/21/25 18:00:17
+LogConsoleManager:Warning: Console object named 'r.SSS.Scale' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+LogInit:Warning: start loadprojectfile=../../../ShooterGame/ShooterGame.uproject
+LogInit: GThreadPool Create ThreadPool:3 !
+LogInit: Version: 4.5.1-0+UE4
+LogInit: API Version: 0
+LogInit: Compiled (64-bit): Sep 19 2024 10:11:42
+LogInit: Compiled with Visual C++: 18.00.30501.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: UE4
+LogInit: Command line: 
+LogInit: Base directory: C:/Users/User/Downloads/gem/PixArk/PixARK.v1.0.920_LinkNeverDie.Com/ShooterGame/Binaries/Win64/
+LogInit: Rocket: 0
+[2025.03.21-11.00.17:714][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+[2025.03.21-11.00.17:763][  0]LogOnline:Warning: Begint to load default OnlineSubsystem module Steam, using NULL interface
+[2025.03.21-11.00.17:764][  0]LogOnline:Display: STEAM: Loading Steam SDK 1.32
+[2025.03.21-11.00.17:765][  0]LogOnline:Display: STEAM: Loading Steam SDK Path ../../../Engine/Binaries/ThirdParty/Steamworks/Steamv132/Win64/steam_api64.dll
+[2025.03.21-11.00.17:773][  0]LogOnline: STEAM: [AppId: 593600] Game Server API initialized 1
+[2025.03.21-11.00.17:773][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2025.03.21-11.00.17:794][  0]LogSteamWorkshop: FSteamWorkshop::Init
+[2025.03.21-11.00.18:912][  0]LogInit: Presizing for 55000 objects not considered by GC, pre-allocating 7340032 bytes.
+[2025.03.21-11.00.18:922][  0]LogInit: Object subsystem initialized
+[2025.03.21-11.00.18:928][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = SmallestCurve'
+[2025.03.21-11.00.18:929][  0]LogConsoleResponse:Warning:   Found in ini file '../../../ShooterGame/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2025.03.21-11.00.18:929][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480.000000,Value=0.444000),(Time=1080.000000,Value=1.000000),(Time=8640.000000,Value=8.000000))),ExternalCurve=None)'
+[2025.03.21-11.00.18:930][  0]LogConsoleResponse:Warning:   Found in ini file '../../../ShooterGame/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2025.03.21-11.00.18:932][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurveX = (EditorCurveData=(Keys=((Time=480.000000,Value=0.25),(Time=1920.000000,Value=1.000000),(Time=8640.000000,Value=4.5))),ExternalCurve=None)'
+[2025.03.21-11.00.18:932][  0]LogConsoleResponse:Warning:   Found in ini file '../../../ShooterGame/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2025.03.21-11.00.18:933][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'r.EarlyZPass = 2'
+[2025.03.21-11.00.18:934][  0]LogConsoleResponse:Warning:   Found in ini file '../../../ShooterGame/Saved/Config/WindowsServer/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2025.03.21-11.00.18:937][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2025.03.21-11.00.18:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2025.03.21-11.00.18:946][  0]LogInit: Computer: DESKTOP-1CJ5F3H
+[2025.03.21-11.00.18:948][  0]LogInit: User: User
+[2025.03.21-11.00.18:948][  0]LogInit: CPU Page size=4096, Cores=4
+[2025.03.21-11.00.18:948][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.03.21-11.00.18:949][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=131072.0GB
+[2025.03.21-11.00.18:949][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2025.03.21-11.00.18:949][  0]LogMemory: Process Physical Memory: 49.51 MB used, 49.51 MB peak
+[2025.03.21-11.00.18:950][  0]LogMemory: Process Virtual Memory: 38.18 MB used, 38.29 MB peak
+[2025.03.21-11.00.18:950][  0]LogMemory: Physical Memory: 7550.93 M
