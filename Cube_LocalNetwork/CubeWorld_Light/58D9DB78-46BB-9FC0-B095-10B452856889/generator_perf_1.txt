@@ -1,5 +1,5 @@
 |                                              Func	     Calls	       Total	         Max	         Avr|
-|                cubesvr::CFinishGenerator::Process	      1036	    0.178882	    0.000655	    0.000173|
-|                                            Ores_6	      1036	    0.178430	    0.000654	    0.000172|
-|           cubesvr::CFinishGenerator::ResetProcess	      1036	    0.065431	    0.000213	    0.000063|
-|                                       TallGrass_5	      1036	    0.064996	    0.000212	    0.000063|
+|                cubesvr::CFinishGenerator::Process	       246	    0.067986	    0.010104	    0.000276|
+|                                            Ores_6	       246	    0.067896	    0.010103	    0.000276|
+|           cubesvr::CFinishGenerator::ResetProcess	       246	    0.024884	    0.001005	    0.000101|
+|                                       TallGrass_5	       246	    0.024791	    0.001004	    0.000101|
