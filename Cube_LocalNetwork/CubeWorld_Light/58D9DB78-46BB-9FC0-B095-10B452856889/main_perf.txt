@@ -1,12 +1,11 @@
 |                                              Func	     Calls	       Total	         Max	         Avr|
-|               cubesvr::IInnerGameworld::GetBlocks	     31049	    0.717052	    0.002007	    0.000023|
-|                            CubeGameWorld::Execute	     11461	    5.526474	    0.067155	    0.000482|
-|                              ProcessAccessMessage	     11476	    0.006885	    0.001471	    0.000001|
-|                               GameMachine_Execute	     11476	    5.340692	    0.060685	    0.000465|
-|         cubesvr::CCubeworldStateMachaine::Execute	     11476	    5.328847	    0.060684	    0.000464|
-|cubesvr::CCubeworldStateMachaine::SaveHelper::CheckSave	     11476	    0.007797	    0.003880	    0.000001|
-|                                   CheckSave Logic	         2	    0.006105	    0.003879	    0.003052|
-|             CubeGameWorld::UpdateListenPlayerPosi	     11461	    0.894291	    0.052254	    0.000078|
-|                                    DTW_LOAD_GROUP	       961	    0.003061	    0.000040	    0.000003|
-|                                   ATW_APPLY_CHUNK	       982	    0.055803	    0.005346	    0.000057|
-|                   cubesvr::IInnerGameworld::Trace	        41	    0.002314	    0.002218	    0.000056|
+|               cubesvr::IInnerGameworld::GetBlocks	    652978	    2.456976	    0.000659	    0.000004|
+|                            CubeGameWorld::Execute	    303958	  113.660536	    0.053205	    0.000374|
+|                              ProcessAccessMessage	    303976	    0.153950	    0.000730	    0.000001|
+|                               GameMachine_Execute	    303976	  112.156312	    0.042895	    0.000369|
+|         cubesvr::CCubeworldStateMachaine::Execute	    303976	  111.917373	    0.042894	    0.000368|
+|cubesvr::CCubeworldStateMachaine::SaveHelper::CheckSave	    303976	    0.085395	    0.003029	    0.000000|
+|                                   CheckSave Logic	        18	    0.042911	    0.003029	    0.002384|
+|             CubeGameWorld::UpdateListenPlayerPosi	    303958	   13.800031	    0.020525	    0.000045|
+|                                    DTW_LOAD_GROUP	      1022	    0.003367	    0.000146	    0.000003|
+|                                   ATW_APPLY_CHUNK	      1471	    0.054409	    0.003352	    0.000037|
